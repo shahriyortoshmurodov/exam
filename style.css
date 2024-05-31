@@ -1,0 +1,96 @@
+.xu {
+    text-align: center;
+    background-color: rgb(94, 142, 255);
+    border: 40px;
+    border-radius: 20px;
+    border: 3px solid red;
+}
+.bi {
+    color: green;
+}
+.fi {
+    color: green;
+}
+.h2 {
+    text-align: center;
+    background-color: yellow; 
+
+}
+.rasm1 {
+    width: 50%;
+
+}
+.rasm2 {
+    width: 50%;
+}
+.lion{
+    display: flex;
+    gap: 10px;
+    
+}
+.vi {
+    text-align: center;
+    background-color: black;
+}
+.sev {
+    color: green;
+}
+.in {
+    width: 5000px ;
+}
+.te {
+    width: 100%;
+    height: 80px;
+}
+h3 {background-size: 10px;
+    background-color: rgb(0, 140, 255);
+    width: 100px;
+    
+}
+.a22 {
+    text-align: center;
+    background-color: yellow;
+
+}
+.hay {
+    color: white;
+    background-color: green;
+    text-align: center;
+    width: 15%;
+}
+.sal { color: white;
+    background-color: blue;
+    text-align: center;
+    width: 65%;
+}
+.ars { color: white;
+    background-color: red;
+    width: 15%;
+}
+.ff {
+    color: white;
+    background-color: black;
+    width: 65%;
+}
+.fff {
+    color: white;
+    background-color: red;
+    width: 15%;
+}
+.fill {
+    color: white;
+    background-color: black;
+    width: 65%;
+}
+.t1  {
+width: 80%;
+height: 30px;
+}
+.t2 {
+    width: 80%;
+    height: 30px;
+}
+.t3 {
+    width: 80%;
+    height: 30px;
+}
